@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Raul Souza</title>
-    <link>https://example.org/categories/</link>
+    <link>https://smol-blog.pages.dev/categories/</link>
     <description>Recent content in Categories on Raul Souza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Dec 2023 10:52:50 -0300</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Dec 2023 11:24:20 -0300</lastBuildDate><atom:link href="https://smol-blog.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>default</title>
-      <link>https://example.org/categories/default/</link>
-      <pubDate>Tue, 12 Dec 2023 10:52:50 -0300</pubDate>
+      <link>https://smol-blog.pages.dev/categories/default/</link>
+      <pubDate>Tue, 12 Dec 2023 11:24:20 -0300</pubDate>
       
-      <guid>https://example.org/categories/default/</guid>
+      <guid>https://smol-blog.pages.dev/categories/default/</guid>
       <description></description>
     </item>
     
     <item>
       <title>technology</title>
-      <link>https://example.org/categories/technology/</link>
+      <link>https://smol-blog.pages.dev/categories/technology/</link>
       <pubDate>Tue, 12 Dec 2023 10:05:43 -0300</pubDate>
       
-      <guid>https://example.org/categories/technology/</guid>
+      <guid>https://smol-blog.pages.dev/categories/technology/</guid>
       <description></description>
     </item>
     
