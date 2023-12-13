@@ -10,4 +10,4 @@ tags:
   - default
 ---
 
-Mas o segundo post precisa de conteúdo.
+Mas o segundo post precisa de conteúdos.
