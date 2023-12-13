@@ -10,4 +10,4 @@ tags:
   - default
 ---
 
-Mas o segundo post precisa de conteúdos. E claro todos o blog.
+Mas o segundo post precisa de conteúdos. E claro todos o blog. Acho que vou usar esse comando três em um.
