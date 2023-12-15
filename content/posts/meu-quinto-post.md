@@ -3,7 +3,7 @@ title: "Meu Quinto Post"
 date: 2023-12-15T12:24:02-03:00
 slug: 2023-12-15-meu-quinto-post
 type: posts
-draft: true
+draft: false
 categories:
   - default
 tags:
