@@ -6,33 +6,28 @@
     <description>Recent content in Tags on Raul Souza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Dec 2023 11:24:20 -0300</lastBuildDate><atom:link href="https://smol-blog.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Dec 2023 12:24:02 -0300</lastBuildDate>
+    <atom:link href="https://smol-blog.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>default</title>
+      <title>Default</title>
       <link>https://smol-blog.pages.dev/tags/default/</link>
-      <pubDate>Tue, 12 Dec 2023 11:24:20 -0300</pubDate>
-      
+      <pubDate>Fri, 15 Dec 2023 12:24:02 -0300</pubDate>
       <guid>https://smol-blog.pages.dev/tags/default/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>computer</title>
+      <title>Computer</title>
       <link>https://smol-blog.pages.dev/tags/computer/</link>
       <pubDate>Tue, 12 Dec 2023 10:05:43 -0300</pubDate>
-      
       <guid>https://smol-blog.pages.dev/tags/computer/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tech</title>
+      <title>Tech</title>
       <link>https://smol-blog.pages.dev/tags/tech/</link>
       <pubDate>Tue, 12 Dec 2023 10:05:43 -0300</pubDate>
-      
       <guid>https://smol-blog.pages.dev/tags/tech/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

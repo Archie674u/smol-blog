@@ -2,25 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://smol-blog.pages.dev/categories/</loc>
-    <lastmod>2023-12-12T11:24:20-03:00</lastmod>
-  </url><url>
-    <loc>https://smol-blog.pages.dev/tags/default/</loc>
-    <lastmod>2023-12-12T11:24:20-03:00</lastmod>
-  </url><url>
-    <loc>https://smol-blog.pages.dev/categories/default/</loc>
-    <lastmod>2023-12-12T11:24:20-03:00</lastmod>
-  </url><url>
-    <loc>https://smol-blog.pages.dev/posts/2023-12-12-meu-quarto-post/</loc>
-    <lastmod>2023-12-12T11:24:20-03:00</lastmod>
-  </url><url>
     <loc>https://smol-blog.pages.dev/posts/</loc>
-    <lastmod>2023-12-12T11:24:20-03:00</lastmod>
+    <lastmod>2024-03-08T10:17:02-03:00</lastmod>
   </url><url>
     <loc>https://smol-blog.pages.dev/</loc>
-    <lastmod>2023-12-12T11:24:20-03:00</lastmod>
+    <lastmod>2024-03-08T10:17:02-03:00</lastmod>
+  </url><url>
+    <loc>https://smol-blog.pages.dev/categories/</loc>
+    <lastmod>2023-12-15T12:24:02-03:00</lastmod>
+  </url><url>
+    <loc>https://smol-blog.pages.dev/tags/default/</loc>
+    <lastmod>2023-12-15T12:24:02-03:00</lastmod>
+  </url><url>
+    <loc>https://smol-blog.pages.dev/categories/default/</loc>
+    <lastmod>2023-12-15T12:24:02-03:00</lastmod>
+  </url><url>
+    <loc>https://smol-blog.pages.dev/posts/2023-12-15-meu-quinto-post/</loc>
+    <lastmod>2023-12-15T12:24:02-03:00</lastmod>
   </url><url>
     <loc>https://smol-blog.pages.dev/tags/</loc>
+    <lastmod>2023-12-15T12:24:02-03:00</lastmod>
+  </url><url>
+    <loc>https://smol-blog.pages.dev/posts/2023-12-12-meu-quarto-post/</loc>
     <lastmod>2023-12-12T11:24:20-03:00</lastmod>
   </url><url>
     <loc>https://smol-blog.pages.dev/posts/2023-12-12-meu-segundo-post/</loc>

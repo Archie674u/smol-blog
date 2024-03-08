@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>default on Raul Souza</title>
+    <title>Default on Raul Souza</title>
     <link>https://smol-blog.pages.dev/tags/default/</link>
-    <description>Recent content in default on Raul Souza</description>
+    <description>Recent content in Default on Raul Souza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Dec 2023 11:24:20 -0300</lastBuildDate><atom:link href="https://smol-blog.pages.dev/tags/default/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Dec 2023 12:24:02 -0300</lastBuildDate>
+    <atom:link href="https://smol-blog.pages.dev/tags/default/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meu Quinto Post</title>
+      <link>https://smol-blog.pages.dev/posts/2023-12-15-meu-quinto-post/</link>
+      <pubDate>Fri, 15 Dec 2023 12:24:02 -0300</pubDate>
+      <guid>https://smol-blog.pages.dev/posts/2023-12-15-meu-quinto-post/</guid>
+      <description>Breve biografia&#xA;Pierre Lévy é um dos principais filósofos que estuda as implicações do ciberespaço das comunicações digitais nas relações humanas. Especificamente o pensador estuda inteligência artificial e cibernética também fez uma tese em sociologia em ciência da informação e Comunicação. Levy nasceu na Tunísia, sua família era judia. O pesquisador escreveu vários livros dentre eles, &amp;ldquo;A máquina Universo&amp;rdquo; criação, cognição e cultura informática (1987), &amp;ldquo;A inteligência coletiva por uma antropologia do ciberespaço&amp;rdquo; (1994), &amp;ldquo;Cibercultura&amp;rdquo; (1997), &amp;ldquo;O que é o virtual&amp;rdquo; (1995).</description>
+    </item>
     <item>
       <title>Meu Quarto Post</title>
       <link>https://smol-blog.pages.dev/posts/2023-12-12-meu-quarto-post/</link>
       <pubDate>Tue, 12 Dec 2023 11:24:20 -0300</pubDate>
-      
       <guid>https://smol-blog.pages.dev/posts/2023-12-12-meu-quarto-post/</guid>
       <description>Claro não é ? O quarto post precisa de conteúdo, agora quero testat a data da publicação como fica.</description>
     </item>
-    
     <item>
       <title>Meu Segundo Post</title>
       <link>https://smol-blog.pages.dev/posts/2023-12-12-meu-segundo-post/</link>
       <pubDate>Tue, 12 Dec 2023 10:52:50 -0300</pubDate>
-      
       <guid>https://smol-blog.pages.dev/posts/2023-12-12-meu-segundo-post/</guid>
       <description>Mas o segundo post precisa de conteúdos. E claro todos o blog. Acho que vou usar esse comando três em um.</description>
     </item>
-    
   </channel>
 </rss>
