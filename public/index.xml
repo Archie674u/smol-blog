@@ -6,15 +6,8 @@
     <description>Recent content on Raul Souza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Mar 2024 10:17:02 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 12:24:02 -0300</lastBuildDate>
     <atom:link href="https://smol-blog.pages.dev/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Meu Sexto Post</title>
-      <link>https://smol-blog.pages.dev/posts/2023-12-12-meu-sexto-post/</link>
-      <pubDate>Fri, 08 Mar 2024 10:17:02 -0300</pubDate>
-      <guid>https://smol-blog.pages.dev/posts/2023-12-12-meu-sexto-post/</guid>
-      <description>Estou testando esse app para anotações, queria escrever em algumr lugar , por exemplo num blog. http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html Olha como é o link dentro desse app. Gostei.&#xA;Quanto tempo eu não escrevo? Talvez aqui seja o lugar bom!</description>
-    </item>
     <item>
       <title>Meu Quinto Post</title>
       <link>https://smol-blog.pages.dev/posts/2023-12-15-meu-quinto-post/</link>
@@ -28,27 +21,6 @@
       <pubDate>Tue, 12 Dec 2023 11:24:20 -0300</pubDate>
       <guid>https://smol-blog.pages.dev/posts/2023-12-12-meu-quarto-post/</guid>
       <description>Claro não é ? O quarto post precisa de conteúdo, agora quero testat a data da publicação como fica.</description>
-    </item>
-    <item>
-      <title>Meu Segundo Post</title>
-      <link>https://smol-blog.pages.dev/posts/2023-12-12-meu-segundo-post/</link>
-      <pubDate>Tue, 12 Dec 2023 10:52:50 -0300</pubDate>
-      <guid>https://smol-blog.pages.dev/posts/2023-12-12-meu-segundo-post/</guid>
-      <description>Mas o segundo post precisa de conteúdos. E claro todos o blog. Acho que vou usar esse comando três em um.</description>
-    </item>
-    <item>
-      <title>Ciberespaço</title>
-      <link>https://smol-blog.pages.dev/posts/2023-12-12-my-first-post/</link>
-      <pubDate>Tue, 12 Dec 2023 10:05:43 -0300</pubDate>
-      <guid>https://smol-blog.pages.dev/posts/2023-12-12-my-first-post/</guid>
-      <description>Breve biografia Pierre Lévy é um dos principais filósofos que estuda as implicações do ciberespaço das comunicações digitais nas relações humanas. Especificamente o pensador estuda inteligência artificial e cibernética também fez uma tese em sociologia em ciência da informação e Comunicação. Levy nasceu na Tunísia, sua família era judia. O pesquisador escreveu vários livros dentre eles, “A máquina Universo” criação, cognição e cultura informática (1987), “A inteligência coletiva por uma antropologia do ciberespaço” (1994), “Cibercultura” (1997), “O que é o virtual” (1995).</description>
-    </item>
-    <item>
-      <title>Meu primeiro post no blog novo</title>
-      <link>https://smol-blog.pages.dev/posts/2023-12-12-my-first-post/</link>
-      <pubDate>Tue, 12 Dec 2023 10:05:43 -0300</pubDate>
-      <guid>https://smol-blog.pages.dev/posts/2023-12-12-my-first-post/</guid>
-      <description>Participação no fórum&#xA;O que eu destacaria é a rápida evolução da internet desde da primeira das redes a Arpanet até os dias atuais e os seus impactos econômicos e sociais. A internet é uma coleção de protocolos como por exemplo um dos primeiros mencionados no vídeo o TCP, que hoje é o TCP/IP que da nome ao modelo de camadas, uma forma de &amp;ldquo;visualizar&amp;rdquo; a internet e basicamente garante que os dados sejam transmitidos sem erros na rede.</description>
     </item>
   </channel>
 </rss>

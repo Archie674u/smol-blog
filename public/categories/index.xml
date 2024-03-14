@@ -6,20 +6,13 @@
     <description>Recent content in Categories on Raul Souza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Mar 2024 10:17:02 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 15 Dec 2023 12:24:02 -0300</lastBuildDate>
     <atom:link href="https://smol-blog.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Default</title>
       <link>https://smol-blog.pages.dev/categories/default/</link>
-      <pubDate>Fri, 08 Mar 2024 10:17:02 -0300</pubDate>
+      <pubDate>Fri, 15 Dec 2023 12:24:02 -0300</pubDate>
       <guid>https://smol-blog.pages.dev/categories/default/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>https://smol-blog.pages.dev/categories/technology/</link>
-      <pubDate>Tue, 12 Dec 2023 10:05:43 -0300</pubDate>
-      <guid>https://smol-blog.pages.dev/categories/technology/</guid>
       <description></description>
     </item>
   </channel>
